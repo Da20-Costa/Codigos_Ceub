@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/davip/CEUB/1-semestre-ceub",
-      "program": "c:/Users/davip/CEUB/1-semestre-ceub/build/Debug/outDebug",
+      "cwd": "c:/Users/davip/CEUB/1-semestre-ceub/CODIGOC",
+      "program": "c:/Users/davip/CEUB/1-semestre-ceub/CODIGOC/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
