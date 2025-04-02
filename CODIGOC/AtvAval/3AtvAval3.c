@@ -1,3 +1,4 @@
+//Davi de Sousa Costa
 #include <stdio.h>
 #include <math.h>
 

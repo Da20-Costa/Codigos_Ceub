@@ -1,5 +1,4 @@
-#include <stdio.h>
-
+//Davi de Sousa Costa
 #include <stdio.h>
 
 int n_100 (double valor);
