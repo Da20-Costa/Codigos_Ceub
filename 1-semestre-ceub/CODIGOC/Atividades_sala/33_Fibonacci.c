@@ -22,5 +22,7 @@ int main (void)
         printf("%i ", fib[i]);
     }
 
+    free(fib);
+
     return 0;
 }
