@@ -3,11 +3,14 @@
 int min(int a, int b)
 {
     return (a < b) ? a : b;
-    if (a < b) {
-    return a; // Se 'a' for menor, retorne 'a'.
-} else {
-    return b; // Senão ('a' não é menor), retorne 'b'.
-}
+      
+    //Antes do :, é caso a condição for verdadeira, depois é a falsa
+      // Mesma coisa:
+      //     if (a < b) {
+      //     return a;
+      // } else {
+      //     return b; 
+      // }
 }
 
 int main() 

@@ -10,7 +10,7 @@ int main (void)
         scanf("%i", &N);
     } while (N < 1 || N > 1000);
     
-    int *X = malloc(sizeof(N));
+    int *X = malloc(N * sizeof(int));
     if(X == NULL)
     {
         printf("Erro ao alocar memoria.\n");
